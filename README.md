@@ -1,5 +1,4 @@
 # GitTask
-Git task 
 
 
 - create local repo
